@@ -6,12 +6,12 @@ Author: Xia-Vyan Daniels
 
 Have GHCI installed (use GCup to install)
 
-Then navigate to the folder where "MainSierpinski" is located, Then execute the following:
+Then navigate to the folder where "Main<FractalName>" is located, Then execute the following:
 
 ```
-ghc MainSierpinski.hs
+ghc Main<FractalName>.hs
 
-./MainSierpinski.exe
+./Main<FractalName>.exe
 ```
 
 Then view in:
